@@ -8,5 +8,6 @@ This is code for jupyter in python
 
 # How to install jupyter notebook:
 ```
-pip install jupyter
+$ pip install jupyter
 ```
+- run site on terminal: `$ jupyter notebook`
