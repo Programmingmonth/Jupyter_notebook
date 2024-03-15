@@ -13,7 +13,7 @@ $ pip install jupyter
 ```
 $ jupyter notebook
 ```
-- url site: `localhost:8888/tree`
+- url site: `localhost:8888/tree` for home in jupyter notebook.
 
 
 # Ways to contact us:
