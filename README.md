@@ -11,6 +11,7 @@ This is code for jupyter in python
 $ pip install jupyter
 ```
 - run site on terminal: `$ jupyter notebook`
+- url site: `localhost:8888/tree`
 
 
 # Ways to contact us:
