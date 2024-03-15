@@ -14,6 +14,6 @@ $ pip install jupyter
 
 
 # Ways to contact us:
-🎥 YouTube channel: https://youtube.com/@Programming_month?si=L63cmwWGTfrV1wuw
+🎥 Educational video link on YouTube: 
 
 📢 Telegram Group: https://t.me/+qUyaqI5KDQpjMTk0
